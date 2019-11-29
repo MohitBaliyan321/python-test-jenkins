@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 3946f0fb570bd0df5d2bb1401cca4769806dbcc0 unknown <LAPSZ1431$@mu-sigma.local> 1575038581 +0530	fetch --tags --progress -- https://github.com/MohitBaliyan321/python-test-jenkins.git +refs/heads/*:refs/remotes/origin/*: storing head
+3946f0fb570bd0df5d2bb1401cca4769806dbcc0 170338af9ad8e9129b25f22b4750561e56576a9b Mohit Kumar1 <Mohit.Kumar1@mu-sigma.com> 1575039947 +0530	pull: fast-forward
+170338af9ad8e9129b25f22b4750561e56576a9b ebc2aaf3f95f14a5bfd8ed1d179a136fd1d0b46d Mohit Kumar1 <Mohit.Kumar1@mu-sigma.com> 1575041754 +0530	pull: fast-forward
